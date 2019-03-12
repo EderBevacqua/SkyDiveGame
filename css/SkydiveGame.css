@@ -1,15 +1,21 @@
 .main{
-    width:1300px;
-    margin:0 auto;
+    margin: 0 auto;
+    width: 1280px;
 }
-
+h1{
+	text-align:center;
+}
+#control{
+	text-align:center;
+}
 img {
 	margin : 20 0 0 20;
 	}
 
 #pontos{
 	margin : 10 0 0 10px;
-	font-size: 25px;
+	font-size: 35px;
+	text-align:center;
 }
 body{
 background-color: #757575

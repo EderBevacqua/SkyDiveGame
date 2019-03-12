@@ -15,7 +15,7 @@ function pontosBoardGameControl (){
 		corrects++;
 		pontos+= POINT_GAME;
 		if (corrects ==  TOTAL_CORRECT){
-			alert("Fim de Jogo família SkyDive! pontos = " + pontos);
+			alert("Fim de Jogo família SkyDive! vc fez "+pontos+" pontos." );
 		}
 	}
 
